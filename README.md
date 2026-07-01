@@ -88,6 +88,6 @@ MD5 b3ad3f43cc988b3f05afda6827edf1ed
 SHA-256	bf578241d2a3acc75fd2efcca1dc1f84062ba1f8af06df1f6a7f145950b8272e
 ```
 ## 📜 Лицензия
-MIT © 2026 Mikhail (2M12) / MishaSoft
+MIT © 2026 Mikhail (2M12) / MishaSoft Technologies
 
 
